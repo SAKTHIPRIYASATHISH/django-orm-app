@@ -45,8 +45,9 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
+![terminal](https://user-images.githubusercontent.com/119104282/210139708-5460a115-592d-4462-b7e1-9528c46a10bf.png)
 
-Include the screenshot of your admin page.
+
 
 
 ## RESULT
